@@ -1,0 +1,17 @@
+.header-logo {
+	background: #ff0000;
+	background: url(../../assets/logo.png) 0 4px;
+	background-size: 90px 49px;
+	background-repeat: no-repeat;
+	padding: 0 100px;
+	font-size: 24px;
+	font-family: '微软雅黑';
+}
+.header-logo a {
+	display: inline-block;
+    color: #fff;
+    padding-top: 10px;
+}
+.header {
+	padding: 0 20px;
+}
